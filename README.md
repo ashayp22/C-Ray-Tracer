@@ -71,3 +71,10 @@ The following resources served as a guide for the steps we took in this project.
 
 - [Ray Tracing in One Weekend](https://raytracing.github.io)
 - [Ray Tracing: Rendering a Triangle](https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution)
+
+## Authors
+
+- [Anand Ramaka](https://github.com/AnandRamaka)
+- [Ashay Parikh](https://github.com/ashayp22)
+- [Hassam Uddin](https://github.com/Heasummn)
+- [Rushika Kumarswamy](https://github.com/RushikaK)
